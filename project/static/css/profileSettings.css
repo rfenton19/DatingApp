@@ -59,7 +59,7 @@ body {
 .form-container input,
 .form-container select,
 .form-container textarea {
-    background-color: #fff;
+    background-color: white;
     width: 100%;
     padding: 10px;
     margin-bottom: 15px;
